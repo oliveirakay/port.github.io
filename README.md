@@ -1,4 +1,4 @@
-# Portfólio Pessoal - [Seu Nome]
+# Portfólio Pessoal - Kayque de Moraes Urbano Oliveira
 
 ## Sobre
 
@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio! Sou estudante de Ciência da Computação apaixonad
 
 ## Áreas de Atuação
 
-- **Inteligência Operacional:** Atualmente, sou estagiário no Banco Bradesco, onde colaboro na área de Inteligência Operacional. Trabalho no desenvolvimento de soluções que visam melhorar a eficiência operacional por meio de análise de dados e automação.
+- **Inteligência Operacional:** Trabalho no desenvolvimento de soluções que visam melhorar a eficiência operacional por meio de análise de dados, automação e criação de indicadores.
 
 - **Pesquisa em Machine Learning:** Minha paixão pela pesquisa me levou à área de Machine Learning, com foco em classificação. Tenho experiência no treinamento de modelos de classificação, explorando técnicas avançadas para aprimorar a precisão e a eficácia dos algoritmos.
 
@@ -22,8 +22,8 @@ Bem-vindo ao meu portfólio! Sou estudante de Ciência da Computação apaixonad
 
 ## Contato
 
-- **LinkedIn:** [Seu Perfil no LinkedIn]
-- **E-mail:** [Seu Endereço de E-mail]
+- **LinkedIn:** https://www.linkedin.com/in/kayque-moraes/
+- **E-mail:** kayquedemorais13@gmail.com
 - **Blog:** [Seu Blog, se aplicável]
 
 Fique à vontade para explorar meus projetos e entre em contato se quiser discutir colaborações, oportunidades ou apenas trocar ideias sobre tecnologia e ciência da computação.
